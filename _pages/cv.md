@@ -1,4 +1,21 @@
 ---
+<!-- layout: archive -->
+title: "Yilan Chen (陈一览)"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+[Curriculum Vitae [PDF]](https://leslie-ch.github.io/files/CV_Yilan_Chen.pdf)
+
+<!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
+
+
+
+<!-- ---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -56,4 +73,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
+
+
