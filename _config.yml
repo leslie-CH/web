@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Yilan Chen"
-  avatar           : "chenyilan.png"
+  avatar           : "chenyilan.jpg"
   bio              : "Research Intern, Computer Science Department, Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/leslie-CH"
+  github           : "leslie-CH"
   google_plus      :
   keybase          :
   instagram        :
@@ -309,3 +309,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+github: [metadata]
