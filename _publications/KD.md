@@ -1,7 +1,7 @@
 ---
 title: "Explaining Knowledge Distillation by Quantifying the Knowledge"
 collection: publications
-permalink: /publication/KD
+permalink: /publications/KD
 date: 2020-02-01
 venue: 'CVPR 2020'
 paperurl: 
