@@ -5,7 +5,7 @@ permalink: /publications/KD
 date: 2020-02-01
 venue: 'CVPR 2020'
 paperurl: 
-citation: 'Xu Cheng, Yilan Chen*, Zhefan Rao*, Quanshi Zhang. Explaining Knowledge Distillation by Quantifying the Knowledge. submitted to CVPR 2020. (*equal contribution)'
+citation: 'Xu Cheng, Yilan Chen*, Zhefan Rao*, Quanshi Zhang.(*equal contribution). Explaining Knowledge Distillation by Quantifying the Knowledge. CVPR 2020. '
 ---
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
