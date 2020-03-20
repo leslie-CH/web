@@ -15,7 +15,7 @@ redirect_from:
 * Research Interests: interpretable AI, theoretical deep learning, generative models and representation learning, probabilistic graphical models, learning theory
 * <b>Looking for intern(research/engineering) or visiting student opportunities in 2020.</b>
 
-title: "News"
-News:
-* <b>got ad from UCSD and JHU.</b>
+
+<font size=4>News:</font>
+* <b>Got ad from UCSD and JHU.</b>
 * <b>Our paper Explaining Knowledge Distillation by Quantifying the Knowledge was accpted by 2020.</b>
