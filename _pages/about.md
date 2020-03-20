@@ -16,6 +16,6 @@ redirect_from:
 * <b>Looking for intern(research/engineering) or visiting student opportunities in 2020.</b>
 
 
-<b><font size=5>News:</font></b>
+<b><font size='5'>News:</font></b>
 * Got ad from UCSD and JHU.
 * Our paper [Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622) was accpted by CVPR 2020.
