@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Curriculum Vitae [PDF]](https://leslie-ch.github.io/files/CV_Yilan_Chen.pdf)
+[Curriculum Vitae [PDF]](https://leslie-ch.github.io/files/resume_web.pdf)
 
 <!-- <embed src="http://lantaoyu.com/files/lantaoyu_cv.pdf" width="650" height="1800" type='application/pdf'> -->
 
