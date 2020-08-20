@@ -86,7 +86,7 @@ author:
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=6wmzpRIAAAAJ&hl=zh-CN"
   email            : "chenyilan@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  知乎             ：https://www.zhihu.com/people/yilan-24-8
+  知乎             ："https://www.zhihu.com/people/yilan-24-8"
 
 
 # Reading Files
