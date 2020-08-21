@@ -23,4 +23,4 @@ redirect_from:
 
 <b><font size='5'>Notes:</font></b>
 * [A Note About NTK Derivation](http://chenyilan.net/files/ntk_derivation.pdf)
-* [Some Derivations and proofs About Linearized Networks](http://chenyilan.net/files/linearization.pdf)
+* [Some Derivations and Proofs About Linearized Networks](http://chenyilan.net/files/linearization.pdf)
