@@ -12,7 +12,7 @@ redirect_from:
 * Before that, I spend a year as a research intern in [John Hopcroft Center for Computer Science](http://jhc.sjtu.edu.cn/) at [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/). 
 * I received my Bachelor of Engineering in Information Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). My undergraduate research advisors are Prof. [Xuanqin Mou](http://gr.xjtu.edu.cn/web/xqmou/home;jsessionid=CCFDF99EDC86A957520D38B1EE36A07D) and Dr. Yijun Liang.
 * Research Interests: theoretical machine learning, interpretable ai.
-* [Curriculum Vitae](http://chenyilan.net/files/resume_web.pdf) &emsp[知乎](https://www.zhihu.com/people/yilan-24-8/posts)
+* [Curriculum Vitae](http://chenyilan.net/files/resume_web.pdf)&emsp[知乎](https://www.zhihu.com/people/yilan-24-8/posts)
 <br>
 
 <!--
