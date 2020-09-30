@@ -10,17 +10,14 @@ redirect_from:
 
 I am now a master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/). Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/). I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). My undergraduate research advisors are Prof. [Xuanqin Mou](http://gr.xjtu.edu.cn/web/xqmou/home) and Dr. Yijun Liang.
 <br>
-<br>
 
 <b><font size='5'>CV</font></b>
-* [Curriculum Vitae](http://chenyilan.net/files/resume_web.pdf)
-<br>
+[Curriculum Vitae](http://chenyilan.net/files/resume_web.pdf)
 <br>
 
 <b><font size='5'>Research Interests</font></b>
 * theoretical machine learning 
 * explainable ai
-<br>
 <br>
 
 <!--
