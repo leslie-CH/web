@@ -13,7 +13,7 @@ I am now a master student in [Computer Science and Engineering Department](https
 
 <b><font size='5'>CV</font></b>
 <br>
-[Curriculum Vitae](http://chenyilan.net/files/resume_web.pdf)
+My curriculum vitae is available [here](http://chenyilan.net/files/resume_web.pdf).
 <br>
 
 <b><font size='5'>Research Interests</font></b>
