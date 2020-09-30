@@ -13,10 +13,10 @@ I am now a master student in [Computer Science and Engineering Department](https
 My curriculum vitae is available [here](http://chenyilan.net/files/resume_web.pdf).
 <br>
 
-**<font size='5'>Research Interests</font>**<br>
-theoretical machine learning 
-explainable ai
-
+**<font size='5'>Research Interests</font>**
+* theoretical machine learning 
+* explainable ai
+<br>
 
 <!--
 * Research Interests: theoretical machine learning, explainable ai.
@@ -26,7 +26,7 @@ explainable ai
 * Our paper [Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622) was accpted by CVPR 2020.
 <br>
 -->
-<br>
+
 
 **<font size='5'>Notes</font>**
 * [A Note about NTK Derivation](http://chenyilan.net/files/ntk_derivation.pdf)
