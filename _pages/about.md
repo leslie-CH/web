@@ -13,7 +13,7 @@ I am now a master student in [Computer Science and Engineering Department](https
 My curriculum vitae is available [here](http://chenyilan.net/files/resume_web.pdf).
 <br>
 
-<b><font size='5'>Research Interests</font></b>
+**<font size='5'>Research Interests</font>**
 * theoretical machine learning 
 * explainable ai
 <br>
@@ -28,7 +28,7 @@ My curriculum vitae is available [here](http://chenyilan.net/files/resume_web.pd
 -->
 
 
-<b><font size='5'>Notes</font></b>
+**<font size='5'>Notes</font>**
 * [A Note about NTK Derivation](http://chenyilan.net/files/ntk_derivation.pdf)
 * [Some Derivations and Proofs about Linearized Networks](http://chenyilan.net/files/linearization.pdf)
 * [知乎](https://www.zhihu.com/people/yilan-24-8/posts)
