@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,6 +16,7 @@ My curriculum vitae is available [here](http://chenyilan.net/files/resume_web.pd
 **<font size='5'>Research Interests</font>**
 * theoretical machine learning 
 * explainable ai
+
 <br>
 
 <!--
