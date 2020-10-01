@@ -21,10 +21,10 @@ My curriculum vitae is available [here](http://chenyilan.net/files/resume_web.pd
 **<font size='5'>Notes</font>** 
 * [A Note about NTK Derivation](http://chenyilan.net/files/ntk_derivation.pdf)
 * [Some Derivations and Proofs about Linearized Networks](http://chenyilan.net/files/linearization.pdf)
-* [知乎](https://www.zhihu.com/people/yilan-24-8/posts)
 
 
 <!--
+* [知乎](https://www.zhihu.com/people/yilan-24-8/posts)
 * Research Interests: theoretical machine learning, explainable ai.
 * [Curriculum Vitae](http://chenyilan.net/files/resume_web.pdf)&emsp;[知乎](https://www.zhihu.com/people/yilan-24-8/posts)
 <b><font size='5'>News:</font></b>
