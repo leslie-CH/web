@@ -115,7 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  zhihu            : "https://www.zhihu.com/people/yilan-24-8"
+  zhihu            : 'https://www.zhihu.com/people/yilan-24-8'
 
 
 # Reading Files
