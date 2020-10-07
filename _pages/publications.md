@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 <br>
-<b>[Explaining Knowledge Distillation by Quantifying the Knowledge](https://leslie-ch.github.io/publications/KD)</b> 
+<b>[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622)</b> 
 <br>
-Xu Cheng, <b>Yilan Chen</b>\*, Zhefan Rao\*, Quanshi Zhang.
+Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.
 <br>
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2020</b>.
 
