@@ -12,8 +12,12 @@ I am now a master student in [Computer Science and Engineering Department](https
 <br>
 Here is my [CV](http://chenyilan.net/files/resume_web.pdf).
 <br>
+I will look for a phd position start from 2022. Please contact me if you are interested.
+<br>
 
 **<font size='5'>Research Interests</font>**
+I am broadly interested in machine learning, especially theoretical foudations of machine learning methods.
+Recently I am fouced on theoretical machine learning, especially theoretical understanding of deep learning. 
 * theoretical machine learning 
 * explainable ai
 <br>
