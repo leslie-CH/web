@@ -17,7 +17,7 @@ I am looking for a phd position starting from 2022.
 **<font size='5'>Research Interests</font>**
 <br>
 I am broadly interested in machine learning, especially theoretical foudations of machine learning methods.
-Recently I am fouced on theoretical machine learning, especially theoretical understanding of deep learning. 
+Recently I am focused on theoretical understanding of deep learning. 
 <br>
 
 **<font size='5'>Notes</font>** 
