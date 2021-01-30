@@ -11,7 +11,7 @@ redirect_from:
 I am now a master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/). Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/). I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
 Here is my [CV](http://chenyilan.net/files/resume_web.pdf).
 <br>
-I am looking for a phd position starting from 2022.
+**I am looking for a phd position starting from 2022.**
 <br>
 
 **<font size='5'>Research Interests</font>**
@@ -21,6 +21,7 @@ I am broadly interested in machine learning, especially theoretical foundations 
 
 
 **<font size='5'>Publications</font>**
+<br>
 <b>[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622)</b> 
 <br>
 Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.
@@ -35,7 +36,7 @@ Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.
 
 
 **<font size='5'>Projects</font>**
-[Prototype Selection for Nearest Neighbor](http://chenyilan.net/files/Prototype_Selection.pdf)
+* [Prototype Selection for Nearest Neighbor](http://chenyilan.net/files/Prototype_Selection.pdf)
 
 
 <!--
