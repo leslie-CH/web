@@ -10,7 +10,7 @@ main:
   #   url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: http://chenyilan.net/files/resume_web.pdf
 
   - title: "Contact"
     url: /contact/
