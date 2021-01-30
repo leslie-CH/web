@@ -27,7 +27,7 @@ I am broadly interested in machine learning, especially theoretical foundations 
 <br>
 Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.
 <br>
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2020</b>.
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition. <b>CVPR 2020</b>.</i>
 <br>
 
 
