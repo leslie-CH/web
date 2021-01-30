@@ -19,9 +19,23 @@ I am looking for a phd position starting from 2022.
 I am broadly interested in machine learning, especially theoretical foundations of machine learning and developing new algorithms. Recently I am focused on theoretical understanding of deep learning. 
 <br>
 
+
+**<font size='5'>Publications</font>**
+<b>[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622)</b> 
+<br>
+Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.
+<br>
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition</i>. <b>CVPR 2020</b>.
+
+
+
 **<font size='5'>Notes</font>** 
 * [A Note about NTK Derivation](http://chenyilan.net/files/ntk_derivation.pdf)
 * [Some Derivations and Proofs about Linearized Networks](http://chenyilan.net/files/linearization.pdf)
+
+
+**<font size='5'>Projects</font>**
+[Prototype Selection for Nearest Neighbor](http://chenyilan.net/files/Prototype_Selection.pdf)
 
 
 <!--
