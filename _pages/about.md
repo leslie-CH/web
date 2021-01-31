@@ -34,7 +34,7 @@ Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.
 
 **<font size='5'>Notes</font>** 
 * [A Note about NTK Derivation](http://chenyilan.net/files/ntk_derivation.pdf)
-* [Some Derivations and Proofs about Linearized Networks](http://chenyilan.net/files/linearization.pdf)
+* [Some Derivations and Proofs about Linearized Networks](http://chenyilan.net/files/linearized_network.pdf)
 
 
 **<font size='5'>Projects</font>**
