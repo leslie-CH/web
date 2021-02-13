@@ -39,6 +39,7 @@ Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.
 
 **<font size='5'>Projects</font>**
 * [Prototype Selection for Nearest Neighbor](http://chenyilan.net/files/Prototype_Selection.pdf)
+* [Coordinate Descent](http://chenyilan.net/files/coord_desc.pdf)
 
 
 <!--
