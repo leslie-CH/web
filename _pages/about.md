@@ -19,7 +19,7 @@ Here is my [CV](http://chenyilan.net/files/CV_YilanChen.pdf).
 **<font size='5'>Research Interests</font>**
 <br>
 I am interested in theoretical machine learning and its applications. 
-Recently I am focusing on theoretical understanding of deep learning. 
+Recently I am focusing on theoretical understanding of deep neural networks.
 <br>
 
 
