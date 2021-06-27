@@ -10,7 +10,7 @@ redirect_from:
 
 I am a first-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/) working with Prof. [Lily Weng](https://lilyweng.github.io/). Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/). I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
 Here is my [CV](http://chenyilan.net/files/CV_YilanChen.pdf). 
-**I am looking for a phd position starting from 2022.**
+**I am looking for a Ph.D. position starting from 2022.**
 <br>
 
 
@@ -35,6 +35,22 @@ Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.
 **<font size='5'>Notes</font>** 
 * [A Note about NTK Derivation](http://chenyilan.net/files/ntk_derivation.pdf)
 * [Some Derivations and Proofs about Linearized Networks](http://chenyilan.net/files/linearized_network.pdf)
+
+
+
+
+**<font size='5'>Courses</font>** 
+* CSE 250A Probabilistic Reason & Learning  A+
+* CSE 251A ML: Learning Algorithms  A+
+* CSE 25CA ML: Machine Learning Theory  A
+* CSE	252A Computer Vision I  A+
+* CSE	257  Search and Optimization A
+
+
+* MATH 245A	Convex Analysis & Optimization I  A
+* MATH 245A	Convex Analysis & Optimization II  A
+* ECE	269   Linear Algebra and Application A
+
 
 
 <!-- **<font size='5'>Projects</font>**
