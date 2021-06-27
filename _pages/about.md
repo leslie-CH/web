@@ -42,7 +42,7 @@ Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.
 **<font size='5'>Courses</font>** 
 * CSE 250A Probabilistic Reason & Learning  A+
 * CSE 251A ML: Learning Algorithms  A+
-* CSE 25CA ML: Machine Learning Theory  A
+* CSE 251C ML: Machine Learning Theory  A
 * CSE	252A Computer Vision I  A+
 * CSE	257  Search and Optimization A
 
