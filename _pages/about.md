@@ -23,7 +23,7 @@ Recently I am focusing on theoretical understanding of deep neural networks.
 <br>
 
 
-**<font size='5'>Publications</font>**
+**<font size='5'>Publications</font>**<br>
 Quantifying the Knowledge in a DNN to Explain Knowledge Distillation<br>
 Xu Cheng, <b>Yilan Chen</b>, Zhefan Rao, Quanshi Zhang.<br>
 <i>In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i><br>
