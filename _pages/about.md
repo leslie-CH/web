@@ -19,13 +19,13 @@ Here is my [CV](http://chenyilan.net/files/CV_YilanChen.pdf).
 **<font size='5'>Research Interests</font>**
 <br>
 I am interested in theoretical machine learning and its applications. 
-Recently I am focusing on theoretical understanding of deep neural networks.
+Recently I am focusing on theoretical understanding of deep neural networks and the robustness of deep learning.
 <br>
 
 
 **<font size='5'>Publications</font>**<br>
 Quantifying the Knowledge in a DNN to Explain Knowledge Distillation<br>
-Xu Cheng, <b>Yilan Chen</b>, Zhefan Rao, Quanshi Zhang.<br>
+Quanshi Zhang*, Xu Cheng*, <b>Yilan Chen</b>, Zhefan Rao.<br>
 <i>In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i><br>
 
 
