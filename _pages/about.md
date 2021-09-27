@@ -53,7 +53,7 @@ Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.<br>
 * MATH 245A	Convex Analysis & Optimization I  A
 * MATH 245B	Convex Analysis & Optimization II  A
 * ECE	269   Linear Algebra and Application A
-* Math 281A Mathematical Statistics ongoing
+* MATH 281A Mathematical Statistics ongoing
 
 
 <!-- **<font size='5'>Projects</font>**
