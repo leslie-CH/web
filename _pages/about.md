@@ -11,7 +11,7 @@ redirect_from:
 I am a seconed-year master student in [Computer Science and Engineering Department](https://cse.ucsd.edu/) at [University of California San Diego](https://ucsd.edu/) working with Prof. [Lily Weng](https://lilyweng.github.io/) and Dr. [Lam M. Nguyen](https://lamnguyen-mltd.github.io/). 
 <!-- Before that, I spent some time as a research intern at [University of Technology Sydney](https://www.uts.edu.au/), advised by Prof. [Richard Xu](https://www.uts.edu.au/staff/yida.xu) and [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/), advised by Prof. [Quanshi Zhang](http://qszhang.com/).  -->
 I received my Bachelor of Engineering Degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/). 
-Here is my [CV](http://chenyilan.net/files/CV_YilanChen.pdf). 
+Here is my [CV](http://chenyilan.net/files/CV_Yilan_Chen.pdf). 
 **I am looking for a Ph.D. position starting from 2022.**
 <br>
 
@@ -24,13 +24,17 @@ Recently I am focusing on theoretical understanding of deep neural networks and 
 
 
 **<font size='5'>Publications</font>**<br>
-Quantifying the Knowledge in a DNN to Explain Knowledge Distillation<br>
+On the Equivalence between Neural Network and Support Vector Machine.<br>
+<b>Yilan Chen</b>, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br>
+<i>Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).</i><br>
+
+Quantifying the Knowledge in a DNN to Explain Knowledge Distillation.<br>
 Quanshi Zhang$^\ast$, Xu Cheng$^\ast$, <b>Yilan Chen</b>, Zhefan Rao.<br>
 <i>In submission to IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).</i><br>
 
 
 <!-- <b>[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622)</b>  -->
-[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622)<br>
+[Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622)<br>
 Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.<br>
 <i>IEEE/CVF Conference on Computer Vision and Pattern Recognition. <b>CVPR 2020</b>.</i><br>
 
