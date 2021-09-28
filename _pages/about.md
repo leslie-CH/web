@@ -36,7 +36,7 @@ Quanshi Zhang$^\ast$, Xu Cheng$^\ast$, <b>Yilan Chen</b>, Zhefan Rao.<br>
 <!-- <b>[Explaining Knowledge Distillation by Quantifying the Knowledge](https://arxiv.org/abs/2003.03622)</b>  -->
 [Explaining Knowledge Distillation by Quantifying the Knowledge.](https://arxiv.org/abs/2003.03622)<br>
 Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.<br>
-<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition. <b>CVPR 2020</b>.</i><br>
+<i>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2020).</i><br>
 
 
 **<font size='5'>Notes</font>** 
