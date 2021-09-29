@@ -52,18 +52,18 @@ Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.<br>
 
 
 **<font size='5'>Courses</font>** 
-<br>Machine Learning:
-* CSE 250A Probabilistic Reason & Learning  A+
-* CSE 251A ML: Learning Algorithms  A+
-* CSE 251C ML: Machine Learning Theory  A
-* CSE	252A Computer Vision I  A+
-* CSE	257  Search and Optimization A
+- Machine Learning:
+  - CSE 250A Probabilistic Reason & Learning  A+
+  - CSE 251A ML: Learning Algorithms  A+
+  - CSE 251C ML: Machine Learning Theory  A
+  - CSE	252A Computer Vision I  A+
+  - CSE	257  Search and Optimization A
 
-Math:
-* MATH 245A	Convex Analysis & Optimization I  A
-* MATH 245B	Convex Analysis & Optimization II  A
-* ECE	269   Linear Algebra and Application A
-* MATH 281A Mathematical Statistics ongoing
+- Math:
+  - MATH 245A	Convex Analysis & Optimization I  A
+  - MATH 245B	Convex Analysis & Optimization II  A
+  - ECE	269   Linear Algebra and Application A
+  - MATH 281A Mathematical Statistics ongoing
 
 
 <!-- **<font size='5'>Projects</font>**
