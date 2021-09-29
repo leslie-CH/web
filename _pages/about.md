@@ -48,6 +48,7 @@ Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.<br>
 
 **<font size='5'>Teaching</font>** 
 * DSC 291 Trustworthy Machine Learning, Tutor, Fall 2021
+<br>
 
 
 **<font size='5'>Courses</font>** 
