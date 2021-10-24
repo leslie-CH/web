@@ -19,10 +19,10 @@ Here is my [CV](http://chenyilan.net/files/CV_Yilan_Chen.pdf).
 **<font size='5'>Research Interests</font>**
 <br>
 I am interested in theoretical machine learning and its applications, especially 
-<!-- Recently I am focusing on theoretical understanding of deep neural networks and the robustness of deep learning. -->
 - Deep learning theory (optimization, generalization, robustness)
 - Reinforcement learning theory
 <br>
+<!-- Recently I am focusing on theoretical understanding of deep neural networks and the robustness of deep learning. -->
 
 
 **<font size='5'>Publications</font>**<br>
