@@ -18,8 +18,10 @@ Here is my [CV](http://chenyilan.net/files/CV_Yilan_Chen.pdf).
 
 **<font size='5'>Research Interests</font>**
 <br>
-I am interested in theoretical machine learning and its applications. 
-Recently I am focusing on theoretical understanding of deep neural networks and the robustness of deep learning.
+I am interested in theoretical machine learning and its applications, especially 
+<!-- Recently I am focusing on theoretical understanding of deep neural networks and the robustness of deep learning. -->
+- Deep learning theory (optimization, generalization, robustness)
+- Reinforcement learning theory
 <br>
 
 
@@ -64,6 +66,12 @@ Xu Cheng, Zhefan Rao, <b>Yilan Chen</b>, Quanshi Zhang.<br>
   - MATH 245B	Convex Analysis & Optimization II  A
   - ECE	269   Linear Algebra and Application A
   - MATH 281A Mathematical Statistics ongoing
+
+
+
+**<font size='5'>Professional Service</font>** 
+* ICLR 2022, Reviewer
+<br>
 
 
 <!-- **<font size='5'>Projects</font>**
