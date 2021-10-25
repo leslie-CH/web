@@ -18,11 +18,11 @@ Here is my [CV](http://chenyilan.net/files/CV_Yilan_Chen.pdf).
 
 **<font size='5'>Research Interests</font>**
 <br>
-I am interested in theoretical machine learning and its applications, especially 
+<p style="margin:0">I am interested in theoretical machine learning and its applications, especially</p>
+
 <ul style="margin:0">
-<li><code>debug</code></li>
-<li><code>warning</code></li>
-<li><code>error</code> (default)</li>
+<li>Deep learning theory (optimization, generalization, robustness)</li>
+<li>Reinforcement learning theory</li>
 </ul>
 
 <!-- <br>
