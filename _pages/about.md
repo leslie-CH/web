@@ -25,7 +25,7 @@ I am interested in theoretical machine learning and its applications, especially
 
 
 **<font size='5'>Publications</font>**<br>
-[On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/pdf/2111.06063.pdf)<br>
+[On the Equivalence between Neural Network and Support Vector Machine.](https://arxiv.org/pdf/2111.06063.pdf) [slides](http://chenyilan.net/files/SVM_Slides.pdf)<br>
 <b>Yilan Chen</b>, Wei Huang, Lam M. Nguyen, Tsui-Wei Weng.<br>
 <i>Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS 2021).</i><br>
 
