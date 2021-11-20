@@ -21,7 +21,12 @@ Here is my [CV](http://chenyilan.net/files/CV_Yilan_Chen.pdf).
 I am interested in theoretical machine learning and its applications, especially 
 - Deep learning theory (optimization, generalization, robustness)
 - Reinforcement learning theory
+- Problems motivated by practical applications.
 <br>
+
+
+
+
 
 
 **<font size='5'>Publications</font>**<br>
